@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 2021 Advent of Code problems.
-- 🌱 I’m currently learning Django (as of 1/5/21).
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on video games as a programmer or designer.
 - 😄 Pronouns: She/Her
 
