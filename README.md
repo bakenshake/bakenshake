@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 2022 Advent of Code problems.
+- 🔭 I’m currently working on a cozy game in Godot 4.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on video games as a programmer or designer.
 - 😄 Pronouns: She/They
