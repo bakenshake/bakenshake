@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a cozy simulator game in Godot 4.
-- 🌱 I’m currently learning Unity's UI Toolkit.
+- 🌱 I’m currently learning Tool Development in Unity.
 - 👯 I’m looking to collaborate on video games as a Systems or UI Engineer.
 - 😄 Pronouns: She/They
 
